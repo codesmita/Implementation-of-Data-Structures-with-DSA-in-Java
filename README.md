@@ -19,7 +19,7 @@ Implementing Data Structures with DSA (Data Structures and Algorithms) in Java i
 - Include usage examples and sample code snippets demonstrating how to use each data structure in practical scenarios.
 # Additional Considerations
 - *Efficiency:* Optimize data structure operations for time and space complexity where possible.
-- *Error Handling:* Implement robust error handling for edge cases (e.g., handling null references, out-of-bounds accesses).
-- *Performance Analysis:* nclude benchmarks and analysis of data structure operations to understand their efficiency and scalability.
+- *Error Handling:* Implement robust error handling for edge cases.
+- *Performance Analysis:* Include benchmarks and analysis of data structure operations to understand their efficiency and scalability.
 
 
