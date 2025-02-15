@@ -21,7 +21,9 @@ The project is stated as follows:
 - Usage and example snippets depicting how to use each structure with real-world examples.
   
 # Additional Considerations
-- *Efficiency:* Optimal time and space complexity of data structure operations should be targeted.
-- *Error Handling:* Provide proper handling robust against edge cases.
-- *Performance Analysis:* Benchmarks and performance analysis should be included to provide beacon to understand their efficiency and scalability.
+*Efficiency:* Optimal time and space complexity of data structure operations should be targeted.
+  
+*Error Handling:* Provide proper handling robust against edge cases.
+  
+*Performance Analysis:* Benchmarks and performance analysis should be included to provide beacon to understand their efficiency and scalability.
 
