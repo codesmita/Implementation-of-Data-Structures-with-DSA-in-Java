@@ -1,6 +1,6 @@
 # Implementation-of-Data-Structures-with-DSA-in-Java
-*Project Outline*
 is intended to implement various basic data structures that are optimal in efficiency and common in computer science. The project methodology is therefore taken step by step from the start to the end.
+
 *Project Essentials*
 The project is stated as follows:
 - Implement various basic data structures, i.e., linked lists, stacks, queues, trees and hash tables, in Java using the concepts of DSA.
@@ -18,6 +18,7 @@ The project is stated as follows:
 *Usage:*
 - Document the operation of each data structure, the algorithm the basics on which it is based, and the time and space complexities.
 - Usage and example snippets depicting how to use each structure with real-world examples.
+  
 # Additional Considerations
 - *Efficiency:* Optimal time and space complexity of data structure operations should be targeted.
 - *Error Handling:* Provide proper handling robust against edge cases.
