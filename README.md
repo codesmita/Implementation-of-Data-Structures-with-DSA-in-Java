@@ -1,4 +1,5 @@
 # Implementation-of-Data-Structures-with-DSA-in-Java
+*Project Outline*
 is intended to implement various basic data structures that are optimal in efficiency and common in computer science. The project methodology is therefore taken step by step from the start to the end.
 *Project Essentials*
 The project is stated as follows:
