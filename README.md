@@ -1,7 +1,7 @@
 # Implementation-of-Data-Structures-with-DSA-in-Java
 is intended to implement various basic data structures that are optimal in efficiency and common in computer science. The project methodology is therefore taken step by step from the start to the end.
 
-*Project Essentials*
+# Project Essentials
 
 The project is stated as follows:
 - Implement various basic data structures, i.e., linked lists, stacks, queues, trees and hash tables, in Java using the concepts of DSA.
